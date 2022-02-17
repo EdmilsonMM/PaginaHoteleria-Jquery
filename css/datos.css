@@ -1,0 +1,27 @@
+.content__datos{
+    margin-top: 10rem;
+    padding: 20px;
+}
+.datos{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding: 20px;
+    background: transparent;
+}
+.ico__datos{
+    width: 150px;
+    height: 100px;
+    text-align: center;
+    background: rgba(128, 128, 128, 0.418);
+    font-size: 23px;
+    padding-top: 20px;
+    margin:20px 10px;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+    color: white;
+}
+
